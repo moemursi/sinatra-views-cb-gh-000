@@ -4,7 +4,7 @@
 
 We'll explore the purpose of views in a Sinatra application and will render them as separate files.
 
-## Objectives
+## Objectivesk
 
 1. Explain the advantage of storing HTML in a separate file from `app.rb`
 2. Create `index.erb` in the views directory
